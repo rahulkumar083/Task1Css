@@ -1,0 +1,24 @@
+.Row {
+    display: flex;
+    background-color: lightblue; 
+    padding: 20px;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    background-color: lightgreen; 
+    padding: 20px;
+}
+
+.Item {
+    width: 100px; 
+    height: 50px;
+    background-color: aqua;
+    margin: 10px;
+    text-align: center;
+    line-height: 50px;
+}
+.main{
+    color: gold;
+}
